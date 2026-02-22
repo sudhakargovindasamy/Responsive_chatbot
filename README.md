@@ -93,6 +93,8 @@ Server will run at: http://127.0.0.1:9000
 
 API Docs: http://127.0.0.1:9000/docs
 
+Live API: https://responsive-chatbot-yl1o.onrender.com/
+
 ------------------------------------------------------------------------
 
 ## 📡 API Endpoints
